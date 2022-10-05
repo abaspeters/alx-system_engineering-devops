@@ -1,2 +1,2 @@
-0 school.mgc file containing school
-!:mime text/school
+#!/bin/bash
+file -C -m school.mgc
